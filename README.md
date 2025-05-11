@@ -30,7 +30,7 @@
   </tr>
   <tr>
     <td>Month 4</td>
-    <td>Performance Testing (JMeter), Security Basics, Final Projects, Job Preparation, Intro to AI in Testing</td>
+    <td>Performance Testing (JMeter), Security Basics, Accessibility Testing, Final Projects,  Intro to AI model in Testing</td>
   </tr>
 </table>
 
