@@ -7,7 +7,7 @@
 
 - 🔭 I daily work on Problem Solving Questions **Java ,DSA**
 
-- 🌱 I’m currently practicing **Heap/Priority Queue Data Structure**
+- 🌱 I’m currently practicing **Array(easy->medium->hard)**
 
 - 📫 How to reach me **nandni6392915896@gmail.com**
 
